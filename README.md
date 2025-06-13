@@ -216,17 +216,13 @@ This interactive dashboard provides deep insights into the Indian mobile market 
 - **🌐 Internationalization**: Multi-language support
 - **🎨 Themes**: Custom color themes and branding
 
-## 📝 License
+## Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any questions or feedback, please reach out to [nar-en57](https://github.com/nar-en57).
 
-## 📧 Contact
+## License
 
-For questions, suggestions, or collaboration opportunities:
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
+© 2025 Naren Jamdar. All rights reserved.
 
 ## 🙏 Acknowledgments
 
