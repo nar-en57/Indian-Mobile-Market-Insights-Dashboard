@@ -137,11 +137,7 @@ This interactive dashboard provides deep insights into the Indian mobile market 
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" alt="SQL"/><br>
         <strong>SQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI-Dataflows.svg" width="50" height="50" alt="DAX"/><br>
-        <strong>DAX</strong>
-      </td>
+      </td>    
     </tr>
   </table>
 </div>
