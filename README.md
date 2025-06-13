@@ -116,7 +116,7 @@ This interactive dashboard provides deep insights into the Indian mobile market 
 - Brand-wise model distribution
 
 ### 3. Specifications Analysis
-![Specifications Analysis](http://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Specification%20Analysis.png)
+![Specifications Analysis](https://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Specification%20Analysis.png)
 - Market distribution by price segments
 - Models by price range analysis
 - Brand performance: Price vs Rating correlation
