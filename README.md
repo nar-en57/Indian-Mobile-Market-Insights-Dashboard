@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h3>🇮🇳 Comprehensive Indian Mobile Market Analysis</h3>
+  <h3>Comprehensive Indian Mobile Market Analysis</h3>
   <p>A powerful data visualization dashboard analyzing the Indian mobile phone market with detailed insights into market trends, brand performance, pricing strategies, and consumer preferences.</p>
 </div>
 
