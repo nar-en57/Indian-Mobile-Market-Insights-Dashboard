@@ -102,21 +102,21 @@ This interactive dashboard provides deep insights into the Indian mobile market 
 ## 📈 Dashboard Sections
 
 ### 1. Executive Overview
-![Executive Overview](https://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Excutive%20Overview.png)]
+![Executive Overview](https://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Excutive%20Overview.png)
 - High-level market metrics and KPIs
 - Market share by RAM configuration
 - Market share by internal storage
 - Average selling price trends by storage & RAM configuration
 
 ### 2. Brand Analysis
-![Brand Analysis](https://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Brand%20Analysis.png)]
+![Brand Analysis](https://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Brand%20Analysis.png)
 - Top mobile phone colors market share
 - Brand discounting strategies comparison
 - Brand performance rating analysis
 - Brand-wise model distribution
 
 ### 3. Specifications Analysis
-![Specifications Analysis](http://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Specification%20Analysis.png)]
+![Specifications Analysis](http://github.com/nar-en57/Indian-Mobile-Market-Insights-Dashboard/blob/main/Specification%20Analysis.png)
 - Market distribution by price segments
 - Models by price range analysis
 - Brand performance: Price vs Rating correlation
