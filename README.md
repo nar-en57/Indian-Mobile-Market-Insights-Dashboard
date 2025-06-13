@@ -3,7 +3,8 @@
 ### 📈 Market Trends
 - **🧠 Standard 4GB RAM** dominates with 49.94% market share
 - **💾 64GB storage** is the most popular with 42.99% market share  
-- **💰 Budget segment** (≤10# 📱 Indian Mobile Market Insights Dashboard
+- **💰 Budget segment** (≤10)
+- # 📱 Indian Mobile Market Insights Dashboard
 
 <div align="center">
   <img src="https://img.shields.io/badge/Mobile%20Market-Analysis-blue?style=for-the-badge" alt="Mobile Market Analysis"/>
