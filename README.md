@@ -179,81 +179,12 @@ This interactive dashboard provides deep insights into the Indian mobile market 
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </div>
 
-### 💻 Setup Instructions
-
-#### Option 1: Power BI Desktop
-```bash
-# 📥 Clone the repository
-git clone https://github.com/yourusername/indian-mobile-market-insights.git
-
-# 📂 Navigate to project directory
-cd indian-mobile-market-insights
-
-# 📊 Open the Power BI file
-# Double-click on "Indian_Mobile_Market_Insights.pbix"
-# OR
-# Open Power BI Desktop → File → Open → Select the .pbix file
-```
-
-#### Option 2: Power BI Service (Online)
-1. **📤 Upload to Power BI Service**: Upload the .pbix file to your Power BI workspace
-2. **🔄 Refresh Data**: Configure data source credentials and refresh schedules
-3. **🔗 Share Dashboard**: Create sharing links or embed in websites/apps
-4. **📱 Mobile Access**: Access via Power BI mobile apps
-
 ### 📋 Prerequisites
 
 - **Power BI Desktop** (Latest version recommended)
 - **Microsoft Account** (for Power BI Service)
 - **Data Source Access** (if connecting to live data)
 - **Power BI Pro License** (for sharing and collaboration features)
-
-### 📁 Repository Contents
-
-```
-indian-mobile-market-insights/
-├── 📊 Indian_Mobile_Market_Insights.pbix    # Main Power BI file
-├── 📂 data/
-│   ├── mobile_brands_data.xlsx              # Source data file
-│   ├── market_segments.csv                  # Price segment data
-│   └── brand_specifications.json            # Technical specs data
-├── 📂 screenshots/
-│   ├── dashboard_overview.png               # Dashboard screenshots
-│   ├── brand_analysis.png                   # Brand analysis view
-│   └── specifications_analysis.png          # Specs analysis view
-├── 📂 documentation/
-│   ├── data_model.md                        # Data model documentation
-│   ├── dax_measures.md                      # DAX formulas used
-│   └── power_query_steps.md                 # Data transformation steps
-├── 📄 README.md                             # This file
-└── 📄 LICENSE                               # MIT License
-```
-
-## 📁 Project Structure
-
-```
-indian-mobile-market-insights/
-├── 📊 Indian_Mobile_Market_Insights.pbix    # Main Power BI Dashboard
-├── 📂 data/
-│   ├── 📄 mobile_market_raw_data.xlsx       # Source dataset
-│   ├── 📄 brand_specifications.csv          # Technical specifications
-│   ├── 📄 pricing_data.json                 # Pricing information
-│   └── 📄 customer_ratings.xlsx             # Rating and review data
-├── 📂 screenshots/
-│   ├── 🖼️ executive_overview.png            # Dashboard page 1
-│   ├── 🖼️ brand_analysis.png               # Dashboard page 2
-│   └── 🖼️ specifications_analysis.png      # Dashboard page 3
-├── 📂 documentation/
-│   ├── 📝 data_model_schema.md              # Data relationships
-│   ├── 📝 dax_calculations.md               # Custom measures & formulas
-│   ├── 📝 power_query_transformations.md   # ETL documentation
-│   └── 📝 dashboard_user_guide.md           # Usage instructions
-├── 📂 templates/
-│   └── 📊 mobile_market_template.pbit       # Power BI template file
-├── 📄 README.md                             # Project documentation
-├── 📄 LICENSE                               # MIT License
-└── 📄 CHANGELOG.md                          # Version history
-```
 
 ## 🎯 Use Cases
 
@@ -282,30 +213,6 @@ indian-mobile-market-insights/
 - Consumer rating and review platforms
 - Pricing intelligence from e-commerce platforms
 
-## 🤝 Contributing
-
-We welcome contributions to improve this Power BI dashboard! Here's how you can help:
-
-### 🔄 How to Contribute
-1. **🍴 Fork the repository**
-2. **🌿 Create your feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **📊 Make your changes** (Update .pbix file, add data sources, improve visualizations)
-4. **💬 Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-5. **📤 Push to the branch** (`git push origin feature/AmazingFeature`)
-6. **🔀 Open a Pull Request**
-
-### 📋 Contribution Guidelines
-- **📊 Power BI Files**: Include both .pbix and .pbit (template) versions
-- **📝 Documentation**: Update relevant documentation for any changes
-- **🖼️ Screenshots**: Include updated dashboard screenshots
-- **📄 Data Sources**: Document any new data sources or transformations
-- **🧪 Testing**: Ensure dashboard works with sample data
-
-### 🐛 Issue Reporting
-- **🔍 Bug Reports**: Use the bug report template
-- **💡 Feature Requests**: Use the feature request template  
-- **❓ Questions**: Use discussions for general questions
-
 ### 🏷️ Areas for Contribution
 - **📊 New Visualizations**: Additional chart types and custom visuals
 - **🔄 Data Sources**: Integration with live data sources
@@ -331,23 +238,6 @@ For questions, suggestions, or collaboration opportunities:
 - Open source visualization libraries
 - Indian mobile retail partners
 - Consumer feedback platforms
-
-## 🔗 Links & Resources
-
-### 📊 Dashboard Access
-- **💻 Power BI Service**: [View Live Dashboard](https://app.powerbi.com/view?r=YOUR_REPORT_ID)
-- **📱 Mobile App**: Available on Power BI Mobile apps (iOS/Android)
-- **🌐 Embedded Version**: [Dashboard Website](https://yourusername.github.io/indian-mobile-market-insights)
-
-### 📚 Documentation
-- **📖 Power BI Documentation**: [Microsoft Power BI Docs](https://docs.microsoft.com/en-us/power-bi/)
-- **📊 DAX Reference**: [DAX Function Reference](https://docs.microsoft.com/en-us/dax/)
-- **🔄 Power Query**: [Power Query Documentation](https://docs.microsoft.com/en-us/power-query/)
-
-### 🎓 Learning Resources
-- **📺 Power BI YouTube**: [Guy in a Cube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
-- **📚 Power BI Community**: [Power BI Community Forum](https://community.powerbi.com/)
-- **🎯 Training**: [Microsoft Learn - Power BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
 
 ---
 
